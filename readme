@@ -1,3 +1,9 @@
+Title:Sky-GVIO: an enhanced GNSS/INS/Vision navigation with FCN-based sky-segmentation in urban canyon
+
+Introduction of dataset
+We briefly introduce our sky-view images dataset, including the training dataset and the testing dataset. The training dataset contains 440 images and the testing dataset contains 2000 images. These data were collected in typical urban canyons in two different areas of Wuhan, which contain trees, tall buildings, and light poles. Therefore, this dataset is very suitable for sky-view images segmentation experiments.
+
+The address of dataset
 We upload the data to Baidu cloud web disk, click the link to download.
 Link：https://pan.baidu.com/s/1_Aps2MA7LMuimKl1Av8Fcw 
 Extract code：klrr 
